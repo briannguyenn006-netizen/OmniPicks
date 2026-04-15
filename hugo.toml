@@ -1,0 +1,30 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'OmniPicks'
+theme = 'PaperMod'
+
+[params]
+    env = "development"
+    title = "OmniPicks"
+    description = "Your Ultimate Curated Selection"
+[menu]
+  [[menu.main]]
+    name = "Tech"
+    identifier = "tech"
+    url = "/tech/"
+    weight = 1
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    url = "/"
+    weight = 2
+  [[menu.main]]
+    name = "Lifestyle"
+    identifier = "lifestyle"
+    url = "/lifestyle/"
+    weight = 3
+  [[menu.main]]
+    name = "Daily Deals"
+    identifier = "daily-deals"
+    url = "/daily-deals/"
+    weight = 4
