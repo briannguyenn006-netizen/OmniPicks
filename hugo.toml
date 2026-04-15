@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://myprivate-folder-vip.website/'
 languageCode = 'en-us'
 title = 'OmniPicks'
 theme = 'PaperMod'
