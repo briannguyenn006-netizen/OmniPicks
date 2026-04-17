@@ -9,10 +9,10 @@ theme = 'PaperMod'
     description = "Your Ultimate Curated Selection"
 [menu]
   [[menu.main]]
-    name = "Tech"
-    identifier = "tech"
-    url = "/tech/"
-    weight = 1
+    name = "Tech"
+    identifier = "tech"
+    url = "/technology/"  
+    weight = 1
   [[menu.main]]
     name = "Home"
     identifier = "home"

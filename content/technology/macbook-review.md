@@ -37,4 +37,4 @@ If your work demands a rugged build, a silent (fanless) operation, and a display
 
 **The smart money isn't on the upgrade. The smart money is on the value.**
 
---- 
+--- ß
