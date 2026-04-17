@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Perspective: Why the MacBook Air M2 is the Ultimate Secondary Market Goldmine"
-date: 2026-04-17T23:59:00+07:00
+date: 2025-01-01T10:00:00+07:00
 draft: false
 author: "Trung"
 categories: ["Tech"]
